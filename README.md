@@ -65,5 +65,5 @@ API Rest
 ```bash
 -Crear método DELETE y acceder a http://localhost:8080/topicos/(id a borrar) y enviar la petición.
 ```
-**Autor:**
+##### Autor
 *William Munguia M.*
