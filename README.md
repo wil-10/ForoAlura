@@ -14,7 +14,7 @@ ForoAlura es una API REST que permite la creación de temas los cuales constan d
 API Rest
 * Abrir IntelliJ IDEA y ejecutar el archivo "Application".
 * Ejecutar Postman o Insomnia y crear métodos para acceder a la URL http://localhost:8080/topicos
-* Generar el JSON Web Token a través de un POST en la url http://localhost:8080/login con el login y clave.
+* Generar el JSON Web Token a través de un POST en la URL http://localhost:8080/login con el login y clave.
 * Ingresar el Token en cada petición (Ver ejemplo).
 
 
